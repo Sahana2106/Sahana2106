@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sahana Hegde 
-  MSc Biostatistics
-  You can reach me @sahanasonu6
+-  MSc Biostatistics 
+-  You can reach me @sahanasonu6962@gmail.com
+-  Bangaluru
 
 <!---
 Sahana2106/Sahana2106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
