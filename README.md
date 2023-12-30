@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Sahana Hegde 
+- 👋 Hi
+-  I’m @Sahana Hegde 
 -  MSc Biostatistics 
 -  You can reach me @sahanasonu6962@gmail.com
 -  Bangaluru
